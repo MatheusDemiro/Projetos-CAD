@@ -1,0 +1,6 @@
+Iluminação 1 : Área de Serviço, Cozinha, Quarto da Empregada, WC da Empregada, WC Suíte, Suíte e WC Social. (100+160+100+100+100+220+100 = 880VA)
+Tomada 1: Quarto da Empregada, WC da Empregada, WC Suíte, Suíte e WC Social.(200+600+600+800+600 = 2800VA)
+Iluminação 2: Sala de Jantar, Sala de Estar, Varanda, Escritório, Circulação, Quarto 1, Quarto 2 e Quarto 3. (160+160+100+100+160+100+160+160 = 1100VA) 
+Tomada 2: Sala de Jantar, Sala de Estar, Varanda, Escritório, Circulação, Quarto 1, Quarto 2 e Quarto 3. (300+700+200+200+100+400+500+400 = 2800VA) 
+Tomada Área de Serviço/Cozinha: 1800 + 2300 = 4100
+
